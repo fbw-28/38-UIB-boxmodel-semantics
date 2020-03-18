@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Sen:400,700,800&display=swap');
+
+
+* {
+    font-family:'Sen', sans-serif;;
+}
+
+h1 {
+ text-align: center;
+ font-size: 3vw;
+}
+
+.boxes {
+    float: left;
+    width:45%;
+    margin:5px
+}
+
+.clear {
+    clear: both;
+}
+
+li {
+    text-transform: capitalize;
+}

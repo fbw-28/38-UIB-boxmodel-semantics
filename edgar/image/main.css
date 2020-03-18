@@ -1,0 +1,28 @@
+body{;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+h2, h3{
+    text-decoration: underline;
+}
+
+.box-content{
+    margin-right: 1%;
+    width: 48%;
+    float: left;
+}
+
+.sub-title{
+    text-align: center;
+}
+footer{;
+    border-top: 1px solid #000;
+}
+
+footer p{
+    margin-top: 0;
+}

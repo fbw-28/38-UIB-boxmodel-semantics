@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    width: 100%;
+    height: 80px;
+    border-bottom: 1px solid #444;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+}
+
+header h2 {
+    font-weight: 100;
+}
+
+main {
+    width: 100%;
+    height: fit-content;
+    background: #d1d0d0;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #444;
+}
+
+.sections-container {
+    display: flex;
+    justify-content: center;
+}
+
+main h2 {
+    text-align: center;
+    padding: 20px;
+    font-size: 2rem;
+}
+
+.basics {
+    width: 300px;
+    height: 300px;
+    border: 1px solid #555;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 20px;
+    float: left;
+    background: #fff;
+}
+
+.basics h2 {
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.basics p {
+    margin-top: 30px;
+}
+
+.basics ul {
+    padding: 20px;
+}
+
+.basics ul li {
+    margin-bottom: 5px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.clear {
+    clear: both;
+}
+
+.others {
+    margin: 50px auto;
+    background: #cccccc;
+    width: fit-content;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.others h2 {
+    margin-bottom: 20px;
+}
+
+.others p {
+    margin-bottom: 20px;
+    float: left;
+}
+
+.others a {
+    text-decoration: none;
+    background: #444;
+    color: #fff;
+    padding: 15px 40px;
+    margin: 5px;
+    border-radius: 10px;
+    transition: all 0.4s;
+}
+
+.others a:hover {
+    background-color: #777;
+}

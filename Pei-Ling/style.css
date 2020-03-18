@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Reenie+Beanie&display=swap');  
+  
+html {
+    font-family: 'Reenie Beanie', cursive; 
+    color: rgb(77, 77, 77);
+}
+
+body {
+    background-color: rgb(255, 220, 226);
+    font-size: 24px;
+    }
+
+  h1 {
+    text-align:center; 
+  }
+  .containers1 {
+    width: 90%;
+    height: 320px;
+    background:none;
+    margin: auto;
+    padding: 5px;
+  }
+
+  .containers2 {
+    width: 90%;
+    height: 350px;
+    background:none;
+    margin: auto;
+    padding: 5px;
+  }
+
+  .containers3 {
+    width: 90%;
+    height: 250px;
+    background:none;
+    margin: auto;
+    padding: 5px;
+  }
+
+  h2 {
+    text-align:center; 
+    text-decoration: underline;
+  }
+
+  h3 {
+      text-decoration: underline;
+      margin-left: 10px;
+  }
+
+  #leftbox1 {     
+    float:left;      
+    width:45%; 
+    height:250; 
+    margin: 2.5%;   
+  } 
+  
+  #rightbox1 {    
+    float:right;     
+    width:45%; 
+    height:250; 
+    margin: 2.5%;
+  } 
+
+  #leftbox2 {     
+    float:left;      
+    width:45%; 
+    height:150px; 
+    margin: 2.5%;      
+  } 
+  
+  #rightbox2 {    
+    float:right;    
+    width:45%; 
+    height:250; 
+    margin: 2.5%;
+  } 
+
+  
+  

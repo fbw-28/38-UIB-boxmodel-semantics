@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: khaki;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h2, h3 {
+    text-decoration: underline;
+}
+
+article, p {
+    text-align: justify;
+}
+
+hr {
+    padding: 0;
+}
+
+.a-h1 {
+    display: inline-block;
+    width: 49%;
+}

@@ -1,0 +1,36 @@
+h1, h2 {
+    text-align: center;
+}
+h3, h2 {
+    text-decoration: underline;
+}
+
+main {
+    font-size: 20px;
+    padding: 15px;
+}
+.column1 {
+    float: left;
+    width:49%;
+}
+
+.column2 {
+    float: right;
+    width:49%;
+}
+
+li {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.history {
+    text-align: justify;
+    font-size: 18px;
+    padding: 15px;
+    text-indent: 20px;
+}
+
+.footer_li {
+    margin-top: 10px;
+}

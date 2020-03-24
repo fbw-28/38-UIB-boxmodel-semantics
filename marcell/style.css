@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+:root {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+header {
+    width: 100vw;
+    height: auto;
+}
+aside {
+    display: block;
+    float: right;
+    width: 19vw;
+    height: auto;
+}
+
+section {
+    display: block;
+float: left;
+    width: 78vw;
+    height: auto;
+}
+
+article {
+    display: block;
+    float: left;
+    width: 78vw;
+    height: auto;
+}
+
+
+
+footer {
+    display: inline-block;
+    float: none;
+    width: 100%;
+}

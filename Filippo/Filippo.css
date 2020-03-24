@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+body {
+    background-color: black;
+} 
+
+header, p, h1, a {
+    font-family: 'Oswald', sans-serif;
+    color:white;
+    text-shadow: 2px 2px black;
+    text-decoration: none;
+}
+
+header {
+    background-image: url(korean.jpg);
+    background-size: 100%;
+    text-align: center ;
+    width: 100vw;
+    height: 100vh;
+    font-size: 700px;
+}
+
+.artist {
+    text-align: center;
+    word-spacing: 40px;
+    font-size: 300px;
+    text-decoration: none;
+}
+
